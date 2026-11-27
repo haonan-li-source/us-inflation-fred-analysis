@@ -1,0 +1,11 @@
+{
+  "sample_start": "2001-04-01",
+  "sample_end": "2026-05-01",
+  "observations": 298,
+  "adjusted_r2": 0.9533153075470607,
+  "durbin_watson": 1.9208828745191038,
+  "hac_bandwidth": 12,
+  "selected_ar_order": 3,
+  "residual_adf": -7.645414125196243,
+  "ljung_box_12": 98.40161841196809
+}
